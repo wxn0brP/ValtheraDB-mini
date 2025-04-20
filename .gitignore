@@ -1,0 +1,8 @@
+.vscode
+dist
+node_modules
+.suglite_history
+test
+test.js
+yarn.lock
+package-lock.json
